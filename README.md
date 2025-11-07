@@ -1,5 +1,6 @@
 # emag-snipe
 Proiectul asta este facut pentru persoanele care vor sa de-a snipe la biletul de 10 lei.
+<img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/13110ab5-3aa0-489f-9f5b-0cf27f8c1306" />
 
 # SETUP:
 
