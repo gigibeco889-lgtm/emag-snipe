@@ -28,4 +28,4 @@ Applicatia va face asta:
 - Tine browser ul deschis in caz de orice si completeaza orice erroare de securirtate emag
 
 # NOTES:
--> Momentan sistemul de mouse movment nu este pus pe versiunea asta, poti sa te duci sa il pui tu singur este destul de usor cred ca si GPT 5 poate sa-l puna nu am mai avut timp ca e 3 dim mai pe scurt modelul local va lua tot ce trb pentru captcha si tot asa tu doar trb sa ai gata acolo toate informatile contului ( https://auth.emag.ro/user/login am vazut ca inca merge), mult succes!
+-> Momentan sistemul de mouse movment nu este pus pe versiunea asta, poti sa te duci sa il pui tu singur este destul de usor cred ca si GPT 5 poate sa-l puna nu am mai avut timp  mai pe scurt modelul local va lua tot ce trb pentru captcha si tot asa tu doar trb sa ai gata acolo toate informatile contului ( https://auth.emag.ro/user/login am vazut ca inca merge), mult succes!
